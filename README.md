@@ -4,11 +4,12 @@ Nintendo DS/GBA game downloader over Wi-Fi. No PC needed.
 
 The hShop NDS was originally created for Twilight Menu but works on Luma using "Nds Forwarder Generator" 
 (download games to your SD card, then install them to the 3DS menu with the generator).
+
 Twilight Menu: https://github.com/DS-Homebrew/TWiLightMenu
 
 ## Features
 
-- Browse 78+ NDS/GBA titles
+- Browse 99+ NDS/GBA titles
 - Direct download to SD card
 - Resume support for large files
 - Dual-screen interface (game list + download progress)
