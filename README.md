@@ -22,11 +22,23 @@ Twilight Menu: https://github.com/DS-Homebrew/TWiLightMenu
 
 ## Installation
 
+For Twilight Menu:
+
 1. Download the .nds needed
 2. Copy to SD card root
-3. Launch via TWiLight Menu++ or NDS Forwarder
+3. Launch via TWiLight Menu++
 
-**3DS users:** Configure DS Wi-Fi settings separately if you're using a R4 (not the 3DS Wi-Fi settings)
+**3DS users:** Configure DS Wi-Fi settings separately if you're using Twilight Menu with a R4 linker (not the 3DS Wi-Fi settings)
+
+For Luma:
+
+1. Download the .nds needed
+2. Copy to SD card root
+3. Download "NDS Forwarder Generator" from the Universal Updater
+4. Open the Homebrew Launcher and tap on "NDS Forwarder Generator"
+5. Install the .nds (You can repeat the process with any .nds you downloaded with the hShop If you want to get the roms on the 3ds menu.
+
+(You cannot add gba games to 3ds menu but you can play it on Twilight Menu or with GBArunner)
 
 ## Usage
 
