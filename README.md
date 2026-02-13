@@ -27,6 +27,7 @@ For Twilight Menu:
 1. Download the .nds needed
 2. Copy to SD card root
 3. Launch via TWiLight Menu++
+(you need to have a "saves" folder on your sd for it work)
 
 **3DS users:** Configure DS Wi-Fi settings separately if you're using Twilight Menu with a R4 linker (not the 3DS Wi-Fi settings)
 
