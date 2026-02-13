@@ -17,7 +17,7 @@ Twilight Menu: https://github.com/DS-Homebrew/TWiLightMenu
 ## Requirements
 
 - DS/DSi/3DS with custom firmware or flashcard
-- Wi-Fi connection (WEP or open network)(WPA2 only for Luma)(Wi-Fi on trains cafés and hotels works fine)
+- Wi-Fi connection (WEP or open network)(WPA2 only for Luma and DSI)(Wi-Fi on trains cafés and hotels works fine)
 - SD card with enough space
 
 ## Installation
