@@ -1,3 +1,4 @@
+**⚠️ IMPORTANT: The files on this page are outdated. Please download the latest release instead.**
 # hShop DS
 
 Nintendo DS/GBA game downloader over Wi-Fi. No PC needed.
