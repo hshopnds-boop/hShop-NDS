@@ -1,4 +1,5 @@
 **⚠️ IMPORTANT: The files on this page are outdated. Please download the latest release here: https://github.com/hshopnds-boop/hShop-NDS/releases/tag/v1.0
+(This project is not affiliated with the hShop 3DS team; however, I have great respect for their work and everything they’ve accomplished, and I highly recommend checking out their app)
 # hShop DS
 
 Nintendo DS/GBA game downloader over Wi-Fi. No PC needed.
