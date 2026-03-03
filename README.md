@@ -1,6 +1,7 @@
 **⚠️ IMPORTANT: The files on this page are outdated. Please download the latest release here: https://github.com/hshopnds-boop/hShop-NDS/releases/tag/v1.0
 
 (This project is not affiliated with the hShop 3DS team; however, I have great respect for their work and everything they’ve accomplished, and I highly recommend checking out their app)
+
 (When launching a game for the first time after downloading it, you may encounter a white screen. Simply reload the game to permanently fix the issue)
 # hShop DS
 
